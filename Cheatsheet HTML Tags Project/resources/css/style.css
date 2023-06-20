@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    color: rgb(95, 110, 156);
+}
+
+h2 {
+    text-align: center;
+    color: rgb(83, 40, 81);
+}
+
+table {
+    border: 3px solid rgb(83, 40, 81);   
+}
+thead {
+    background-color: rgb(153, 156, 150);
+}
+
+td{
+    border-top: 1px solid black;
+}
+
+.tag {
+    background-color: rgb(194, 174, 175);
+}
+
+body {
+    background-color: rgb(237, 233, 233);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
